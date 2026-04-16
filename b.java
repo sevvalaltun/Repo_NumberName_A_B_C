@@ -1,3 +1,2 @@
-class B {
-  int y;
-}
+class B {}
+
