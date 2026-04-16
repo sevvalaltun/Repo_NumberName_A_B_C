@@ -1,3 +1,3 @@
 class B {
-  
+  int y;
 }
