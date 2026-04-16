@@ -1,4 +1,4 @@
 class B {
-  int x;
+  int y;
 }
 
