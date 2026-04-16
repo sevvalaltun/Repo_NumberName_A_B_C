@@ -1,3 +1,3 @@
 class B {
-  
+  String name;
 }
